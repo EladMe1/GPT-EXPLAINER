@@ -40,11 +40,13 @@ To get started with the GPT Explainer web application, follow these steps:
 5. Start the chatgpt script
 6. Open a web browser and navigate to http://localhost:5000 to access the GPT Explainer web application.
 
-
 ## Usage
 
-1.Upload a PowerPoint file using the web interface.
-2.The application will process the file, extract text from the slides, and then generate a short explanation for the presentation content using the GPT-3.5 Turbo model.
-3.Users can view and download the generated explanations.
+To get started with the GPT Explainer web application, follow these steps:
+
+1. Upload a PowerPoint file using the web interface.
+2. The application will process the file, extract text from the slides, and then generate a short explanation for the presentation content using the GPT-3.5 Turbo model.
+3. Users can view and download the generated explanations.
+
 
 Enjoy using the GPT Explainer web application! 
